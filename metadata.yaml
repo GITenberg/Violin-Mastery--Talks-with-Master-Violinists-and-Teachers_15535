@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6111
     wikipedia: http://en.wikisource.org/wiki/Author:Frederick_Herman_Martens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15535#Violin-Mastery--Talks-with-Master-Violinists-and-Teachers
 gutenberg_bookshelf: Music
 gutenberg_issued: '2005-04-04'
 gutenberg_type: Text
