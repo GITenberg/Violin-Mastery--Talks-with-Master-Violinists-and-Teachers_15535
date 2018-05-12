@@ -1,0 +1,32 @@
+_repo: Violin-Mastery--Talks-with-Master-Violinists-and-Teachers_15535
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martens, Frederick Herman
+    aliases:
+    - Martens, Frederic
+    - Martens, Frederick H.
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '6111'
+    url: http://www.gutenberg.org/2009/agents/6111
+    wikipedia: http://en.wikisource.org/wiki/Author:Frederick_Herman_Martens
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2005-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Violinists'
+- !lcsh 'Violin -- Instruction and study'
+- !lcc 'MT'
+title: 'Violin Mastery: Talks with Master Violinists and Teachers'
+url: http://www.gutenberg.org/ebooks/15535
